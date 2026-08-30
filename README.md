@@ -10,7 +10,7 @@ I'm currently learning: fundamentals of C programming
 | Project | Focus | Date |
 |   ---   |  ---  | ---  |
 | [Airline Reservation System](link-to-repo) | File persistence, multi-module structure | Jul 2026 |
-| [Student Report Management System](link-to-repo) | OOP fundamentals | Aug 2026 |
+| [Student Report Management System](https://github.com/Paranjay404/Student-Management-System) | OOP fundamentals | Aug 2026 |
 
 ### Currently working on
 Learning Fundamentals of C
